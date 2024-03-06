@@ -1,0 +1,14 @@
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s3s1   460Gi   9.3Gi   123Gi     8%    392k  1.3G    0%   /
+devfs            202Ki   202Ki     0Bi   100%     698     0  100%   /dev
+/dev/disk3s6     460Gi   4.0Gi   123Gi     4%       4  1.3G    0%   /System/Volumes/VM
+/dev/disk3s4     460Gi   6.3Gi   123Gi     5%    1.4k  1.3G    0%   /System/Volumes/Preboot
+/dev/disk3s2     460Gi   175Mi   123Gi     1%     162  1.3G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   480Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   6.1Mi   480Mi     2%      33  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   3.0Mi   480Mi     1%      57  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s1     460Gi   316Gi   123Gi    73%    2.7M  1.3G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk5s1      16Gi    16Gi   467Mi    98%    507k  4.8M   10%   /Library/Developer/CoreSimulator/Volumes/iOS_21C62
+/dev/disk2s1     5.0Gi   1.6Gi   3.4Gi    33%      58   35M    0%   /System/Volumes/Update/SFR/mnt1
+/dev/disk3s3     460Gi   9.3Gi   123Gi     8%    392k  1.3G    0%   /System/Volumes/Update/mnt1
